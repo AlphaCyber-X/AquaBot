@@ -1,14 +1,14 @@
 {
-  "name": "aquabot",
+  "name": "devilbot",
   "version": "1.0.1",
-  "description": "aquabot happy for whatsapp.",
+  "description": "devilbot happy for whatsapp.",
   "main": "/aquabot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AquaBot.git"
+    "type": "youtube",
+    "url": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA"
   },
   "keywords": [
     "whatsapp",
@@ -22,13 +22,13 @@
     "whatsapp web",
     "whatsapp api"
   ],
-  "author": "sanuwa",
-  "developer": "sanuwa",
+  "author": "AlphaCyberX",
+  "developer": "AlphaCyberX",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AquaBot/issues"
+    "url": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA"
   },
-  "homepage": "https://github.com/sanuwaofficial/AquaBot",
+  "homepage": "https://youtube.com/channel/UCDc_vYQFGHznliwSypY_5CA",
   "dependencies": {
    
     "aquabot": "^1.0.0",
